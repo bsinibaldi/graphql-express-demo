@@ -1,1 +1,5 @@
+# node modules don't need to be checked in
 node_modules
+
+# neither does compiled code
+dist
